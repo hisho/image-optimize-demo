@@ -1,7 +1,7 @@
 const BROWSER_SYNC = {
   files: [
-    `dist/assets/**/*`,
-    `dist/**/*.html`,
+    `docs/assets/**/*`,
+    `docs/**/*.html`,
   ],
   ghostMode: {
     clicks: false,
