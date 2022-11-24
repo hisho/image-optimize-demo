@@ -9,7 +9,7 @@ const BROWSER_SYNC = {
     forms: false
   },
   server: {
-    baseDir: 'dist',
+    baseDir: 'docs',
     middleware: [],
   },
   logFileChanges: false
